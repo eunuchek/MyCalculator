@@ -17,4 +17,8 @@ public static double sum(double first, double second){
 
         return Math.sin(x);
     }
+    public static double tan(double x){
+
+        return Math.tan(x);
+    }
 }
