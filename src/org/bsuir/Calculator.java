@@ -13,4 +13,8 @@ public static double sum(double first, double second){
 
         return Math.cos(x);
     }
+    public static double sin(double x){
+
+        return Math.sin(x);
+    }
 }
